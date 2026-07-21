@@ -1,5 +1,7 @@
 # A speed limit on deception in robot swarms — code and data
 
+[![DOI](https://zenodo.org/badge/1307548050.svg)](https://doi.org/10.5281/zenodo.21471557)
+
 Simulation code, flight-plan packages, and flight data for the manuscript
 
 > L. Shi, Z. Ma, P. Zhu, *A speed limit on deception in robot swarms*,
