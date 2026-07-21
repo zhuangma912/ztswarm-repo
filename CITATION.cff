@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software or the accompanying data, please cite the archived release."
+type: software
+
+title: "A speed limit on deception in robot swarms - code and data"
+
+authors:
+  - family-names: "Shi"
+    given-names: "Lei"
+    email: "shilei910918@126.com"
+    affiliation: "School of Artificial Intelligence, Henan University"
+
+  - family-names: "Ma"
+    given-names: "Zhuangzhuang"
+
+  - family-names: "Zhu"
+    given-names: "Panpan"
+
+version: "1.0.0"
+date-released: "2026-07-21"
+
+repository-code: "https://github.com/zhuangma912/ztswarm-repo"
+
+license: "MIT"
+
+keywords:
+  - "robot swarms"
+  - "swarm robotics"
+  - "deception"
+  - "resilient coordination"
+  - "multi-agent systems"
+  - "Crazyflie"
+
+abstract: >-
+  Simulation code, flight-plan packages, and flight data accompanying
+  the manuscript A speed limit on deception in robot swarms.

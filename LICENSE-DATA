@@ -1,0 +1,25 @@
+Data and Image License
+
+Copyright (c) 2026 Lei Shi, Zhuangzhuang Ma, Panpan Zhu
+
+Unless otherwise noted, the flight data and original images in this
+repository are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+This license applies to:
+
+- flight data and generated preview media under hardware_plan_sweep/
+- fig_hw_flight.png
+- fig_platform.jpg
+
+When reusing these materials, you must give appropriate credit, provide
+a link to the license, and indicate whether changes were made.
+
+License summary:
+https://creativecommons.org/licenses/by/4.0/
+
+Legal code:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+The vendored font files under fonts/ are excluded from this license and
+are distributed under the GUST Font License.
